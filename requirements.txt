@@ -1,8 +1,8 @@
-streamlit
+streamlit>=1.30
 pandas
-plotly
-seaborn
 matplotlib
+seaborn
 scikit-learn
 transformers
 torch
+plotly>=5.0
